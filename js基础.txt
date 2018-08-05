@@ -1,0 +1,13 @@
+变量命名规则：必须以字母或者下划线_或者$开头。
+在函数体内部，但是没有声明var 的变量也是全局变量。
+事件三要素：事件源（被触发者）、事件（触发的事件）、事件处理程序（做的事情）。
+dom对象的获取，getElementsByTagName、getElementsByClassName获取的是数组类型的对象。
+隐藏样式：display:none;隐藏不占位置    visibility:hidden;隐藏占有位置，停职留心    overflow:hidden;隐藏超出部分。
+方法的声明：自定义函数、函数直接量声明、利用Function关键字声明。
+函数变量提升：在函数体内部，声明变量，会把该声明提升到函数体的最顶端。 只提升变量声明，不赋值。
+this一般指事件的调用者。
+className类名
+innerHTML更换盒子里面的内容，文字、标签都换
+value表单更换内容
+获取焦点focus();
+选择表单select();
